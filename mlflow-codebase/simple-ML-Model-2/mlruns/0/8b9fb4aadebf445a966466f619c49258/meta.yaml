@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rashu/Upskilling/MLFlow/mlflow-codebase/simple-ML-Model-2/mlruns/0/8b9fb4aadebf445a966466f619c49258/artifacts
+end_time: 1645643978006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8b9fb4aadebf445a966466f619c49258
+run_uuid: 8b9fb4aadebf445a966466f619c49258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645643976853
+status: 3
+tags: []
+user_id: rashu

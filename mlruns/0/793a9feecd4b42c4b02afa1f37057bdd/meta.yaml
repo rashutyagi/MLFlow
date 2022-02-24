@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rashu/Upskilling/MLFlow/mlruns/0/793a9feecd4b42c4b02afa1f37057bdd/artifacts
+end_time: 1645559643286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 793a9feecd4b42c4b02afa1f37057bdd
+run_uuid: 793a9feecd4b42c4b02afa1f37057bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645559643281
+status: 3
+tags: []
+user_id: rashu
